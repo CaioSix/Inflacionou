@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.feira {
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px;
+    padding: 3px;
+}
+
+ul li {
+    list-style: none;
+}
+
+button:hover {
+    color: red;
+    padding: 5px 5px;
+}
